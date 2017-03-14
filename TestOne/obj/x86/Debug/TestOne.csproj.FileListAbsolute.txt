@@ -1,0 +1,4 @@
+/Users/nikitakovylov/Projects/TestOne/TestOne/bin/Debug/TestOne.exe
+/Users/nikitakovylov/Projects/TestOne/TestOne/bin/Debug/TestOne.exe.mdb
+/Users/nikitakovylov/Projects/TestOne/TestOne/obj/x86/Debug/TestOne.exe
+/Users/nikitakovylov/Projects/TestOne/TestOne/obj/x86/Debug/TestOne.exe.mdb
